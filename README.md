@@ -66,4 +66,4 @@ Contributing
 If you would like to contribute to the project, please follow our Contribution Guidelines.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License to Arad Ariel
